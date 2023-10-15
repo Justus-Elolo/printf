@@ -1,3 +1,5 @@
+#include "main.h"
+
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
@@ -184,4 +186,3 @@ int print_rot13string(va_list types, char buffer[],
 	}
 	return (count);
 }
-

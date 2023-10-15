@@ -9,6 +9,7 @@
  */
 int get_size(const char *format, int *i)
 {
+	//initialise the curr_i and the size
 	int curr_i = *i + 1;
 	int size = 0;
 
